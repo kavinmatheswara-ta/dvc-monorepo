@@ -1,0 +1,4 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://us-east-1-cprod-us-spark-cluster/Pricing/userspace/Docketapp/dvc-store
